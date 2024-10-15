@@ -2,9 +2,7 @@
 
 **Welcome to my first project using HTML &amp; CSS ❤**
 
-![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
-
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+![Screenshot (154)](https://github.com/user-attachments/assets/f24af575-8bf5-423f-bd9b-fe7d3a3f851a)
 
 - [Demo Project](https://shayanmnik.github.io/Avada-Bed-Breakfast/)
 
